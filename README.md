@@ -1,4 +1,4 @@
-# Spotifree
+<h1 align="center">Spotifree</h1>
 A simple spotify downloader which allows you to download a spotify album or playlist using youtube's API.
 <br>
 
